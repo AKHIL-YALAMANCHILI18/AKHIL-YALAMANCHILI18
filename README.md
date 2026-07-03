@@ -119,7 +119,6 @@
 </p>
 
 ---
-![Snake](https://raw.githubusercontent.com/AKHIL-YALAMANCHILI18/AKHIL-YALAMANCHILI18/output/github-contribution-grid-snake.svg)
 <p align="center">
 
 > 💡 *"Learning by building. Growing through consistency."*
