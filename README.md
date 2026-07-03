@@ -1,4 +1,4 @@
-![Header]![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Akhil%20Yalamanchili&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Akhil%20Yalamanchili&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI+Solutions...;Machine+Learning+%7C+Deep+Learning;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Power+BI;Open+to+AI%2FML+Internships" />
