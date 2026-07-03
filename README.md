@@ -1,18 +1,128 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🔍 AI & Data Science student passionate about building intelligent solutions using Machine Learning and Deep Learning.<br><br>🧠 I build end-to-end AI and ML projects, from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and deployment.<br><br>📊 Core toolkit: Python, SQL, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Power BI, Git, GitHub, and Jupyter Notebook.<br><br>🚀 Currently strengthening my skills in Deep Learning, Computer Vision, Data Analysis, Power BI dashboards, and deploying AI applications.<br><br>🌱 Actively building real-world AI projects and expanding my GitHub portfolio while preparing for AI, Machine Learning, and Data Science internship opportunities.<br><br>💬 Happy to talk about: Machine Learning, Data Science, AI projects, Python, Power BI, data visualization, and problem-solving.<br><br>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:8B5CF6&height=220&section=header&text=Akhil%20Yalamanchili&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18)
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI+Solutions...;Machine+Learning+%7C+Deep+Learning;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Power+BI;Open+to+AI%2FML+Internships" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhil-y-b97b55289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilyalamanchilii@gmail.com) 
+<p align="center">
+📍 Bengaluru, India &nbsp; | &nbsp;
+🎓 BCA Data Science — Presidency University &nbsp; | &nbsp;
+✉️ akhilyalamanchilii@gmail.com
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AKHIL-YALAMANCHILI18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AKHIL-YALAMANCHILI18&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AKHIL-YALAMANCHILI18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AKHIL-YALAMANCHILI18&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AKHIL-YALAMANCHILI18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+🔍 AI & Data Science student passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, and **Data Analytics**.
+
+🧠 I build end-to-end AI and ML projects—from **data preprocessing** and **exploratory data analysis (EDA)** to **model training**, **evaluation**, and **deployment**.
+
+📊 **Core Toolkit**
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Power BI
+- Git & GitHub
+- Jupyter Notebook
+
+🚀 Currently strengthening my skills in **Deep Learning**, **Computer Vision**, **Natural Language Processing**, and **AI Deployment**.
+
+🌱 Actively building real-world AI projects while preparing for **AI, Machine Learning, and Data Science Internship Opportunities**.
+
+💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, Power BI, and Data Visualization.**
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technology | Domain |
+|----------|------------|--------|
+| 🌾 Crop Disease Detection | TensorFlow, CNN | Computer Vision |
+| 🩺 Skin Disease Classification | PyTorch | Healthcare AI |
+| ❤️ ECG Heart Disease Prediction | Deep Learning | Healthcare |
+| 📊 Power BI Sales Dashboard | Power BI | Business Intelligence |
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,git,github,html,css,js,vscode,figma&theme=dark"/>
+
+</p>
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AKHIL-YALAMANCHILI18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-YALAMANCHILI18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHIL-YALAMANCHILI18&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akhil-y-b97b55289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:akhilyalamanchilii@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AKHIL-YALAMANCHILI18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> 💡 *"Learning by building. Growing through consistency."*
+
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:4F46E5&height=120&section=footer)
