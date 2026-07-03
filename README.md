@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,github,html,css,js,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,git,github,html,css,js,vscode,figma&theme=dark"/>
 
 </p>
 
