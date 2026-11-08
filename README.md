@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  📍 Bengaluru, India &nbsp; | &nbsp;
-  🎓 MCA — M. S. Ramaiah Institute of Technology &nbsp; | &nbsp;
-  ✉️ akhilyalamanchilii@gmail.com
+  Bengaluru, India &nbsp; | &nbsp;
+  MCA — M. S. Ramaiah Institute of Technology &nbsp; | &nbsp;
+  akhilyalamanchilii@gmail.com
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
 Hi, I'm **Akhil Yalamanchili**, currently pursuing my **Master of Computer Applications (MCA) at M. S. Ramaiah Institute of Technology (MSRIT), Bengaluru**, after completing my BCA in Data Science from Presidency University.
 
@@ -27,12 +27,12 @@ I enjoy taking ideas from concept to implementation, exploring new technologies,
 
 ### What I Work On
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & Computer Vision
-- 📊 Data Analytics & Data Visualization
-- 💻 Full-Stack Web Development
-- ⚙️ AI Agents & Workflow Automation
-- 🔍 Experimentation, Model Evaluation & Deployment
+- Artificial Intelligence & Machine Learning
+-  Deep Learning & Computer Vision
+-  Data Analytics & Data Visualization
+-  Full-Stack Web Development
+-  AI Agents & Workflow Automation
+-  Experimentation, Model Evaluation & Deployment
 
 ### Core Toolkit
 
@@ -44,26 +44,26 @@ I enjoy taking ideas from concept to implementation, exploring new technologies,
 - **Databases:** MySQL, MongoDB, SQLite
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Figma
 
-🚀 Currently focused on improving my software engineering skills, exploring advanced AI/ML concepts, and building applications that solve practical problems.
+ Currently focused on improving my software engineering skills, exploring advanced AI/ML concepts, and building applications that solve practical problems.
 
-🌱 Always learning. Always building.
+ Always learning. Always building.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Technologies | Domain |
 |---|---|---|
-| 🤖 [AI Job Search & Application Agent](https://github.com/AKHIL-YALAMANCHILI18/ai-job-search-agent) | Python, FastAPI, React, TypeScript, Ollama, Playwright, SQLite | AI Agents & Automation |
-| 🧪 AURELIA – AI/ML Experiment & Prediction Platform | Python, FastAPI, React, TypeScript, Scikit-learn | AI/ML Platform |
-| 🌾 Crop Disease Detection | Python, TensorFlow, CNN | Computer Vision |
-| 🩺 Skin Disease Classification | Python, PyTorch, Deep Learning | Healthcare AI |
-| ❤️ ECG Heart Disease Prediction | Python, Deep Learning | Healthcare AI |
-| 📊 Power BI Sales Dashboard | Power BI, Data Analytics | Business Intelligence |
+|  [AI Job Search & Application Agent](https://github.com/AKHIL-YALAMANCHILI18/ai-job-search-agent) | Python, FastAPI, React, TypeScript, Ollama, Playwright, SQLite | AI Agents & Automation |
+|  AURELIA – AI/ML Experiment & Prediction Platform | Python, FastAPI, React, TypeScript, Scikit-learn | AI/ML Platform |
+|  Crop Disease Detection | Python, TensorFlow, CNN | Computer Vision |
+|  Skin Disease Classification | Python, PyTorch, Deep Learning | Healthcare AI |
+|  ECG Heart Disease Prediction | Python, Deep Learning | Healthcare AI |
+|  Power BI Sales Dashboard | Power BI, Data Analytics | Business Intelligence |
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,html,css,tailwind,fastapi,tensorflow,pytorch,mysql,mongodb,git,github,vscode,figma&theme=dark" />
@@ -102,7 +102,7 @@ I enjoy taking ideas from concept to implementation, exploring new technologies,
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AKHIL-YALAMANCHILI18&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -115,7 +115,7 @@ I enjoy taking ideas from concept to implementation, exploring new technologies,
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AKHIL-YALAMANCHILI18/AKHIL-YALAMANCHILI18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
@@ -123,7 +123,7 @@ I enjoy taking ideas from concept to implementation, exploring new technologies,
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-y-b97b55289/">
